@@ -1,0 +1,3 @@
+# No external dependencies required
+# Core functionality uses Python standard library only
+# Optional: DeepSeek API key for AI-enhanced summaries

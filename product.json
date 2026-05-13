@@ -1,0 +1,30 @@
+{
+  "name": "AI Daily Report",
+  "name_cn": "AI日报生成器",
+  "version": "1.0.0",
+  "author": "AI Tools Workshop",
+  "license": "MIT",
+  "description": "自动抓取Hacker News/arXiv/GitHub热门AI资讯，接入DeepSeek生成智能摘要，输出Markdown日报。",
+  "features": [
+    "3大数据源(HN/arXiv/GitHub)",
+    "DeepSeek AI智能摘要",
+    "Markdown输出直接用",
+    "零依赖纯Python",
+    "中英文关键词",
+    "智能缓存"
+  ],
+  "price": 29,
+  "currency": "CNY",
+  "target_platforms": [
+    "xianyu",
+    "github"
+  ],
+  "tags": [
+    "daily-report",
+    "ai-news",
+    "hackernews",
+    "arxiv"
+  ],
+  "file": "ai_daily_report.py",
+  "lines": 440
+}
